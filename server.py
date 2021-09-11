@@ -1,0 +1,1 @@
+print("NamanariSa server running")
